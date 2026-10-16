@@ -12,7 +12,7 @@ I build web applications, CRM platforms, and automation workflows that help busi
 ## 🛠️ Technologies
 
 - **Frontend:** React, Next.js
-- **Backend:** Node.js, Express, REST APIs
+- **Backend:** Node.js, Express, REST APIs, Java
 - **Database:** MongoDB
 - **Other Tools:** Git, GitHub, n8n, AI integrations
 
